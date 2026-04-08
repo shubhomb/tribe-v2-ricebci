@@ -4,3 +4,16 @@ sample_video/
 *.mp4
 *.png
 .conda/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Tribe v2 / ML specifics
+*.pth
+*.bin
+data/
+outputs/
+.env
